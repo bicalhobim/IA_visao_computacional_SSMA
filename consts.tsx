@@ -14,12 +14,12 @@
 // distribuído sob a Licença é distribuído "COMO ESTÁ",
 // SEM GARANTIAS OU CONDIÇÕES DE QUALQUER TIPO, expressas ou implícitas.
 // Consulte a Licença para o idioma específico que governa as permissões e
-// limitações sob a Licença.
+// limitações sob a Licença. 
 
 export const colors = [
   'rgb(0, 0, 0)',
   'rgb(255, 255, 255)',
-  'rgb(213, 40, 40)',
+  'rgb(213, 40, 40)', 
   'rgb(250, 123, 23)',
   'rgb(240, 186, 17)',
   'rgb(8, 161, 72)',
