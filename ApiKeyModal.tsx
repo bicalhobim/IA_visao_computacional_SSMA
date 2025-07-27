@@ -44,7 +44,7 @@ export function ApiKeyModal() {
     <div className="absolute inset-0 bg-black/80 z-50 flex items-center justify-center p-4 animate-fade-in">
         <div className="bg-gray-800 w-full max-w-lg rounded-lg shadow-2xl flex flex-col border border-gray-700">
             <div className="flex-shrink-0 p-4 border-b border-gray-700">
-                <h2 className="text-xl font-bold text-cyan-400">Configuração de API</h2>
+                <h2 className="text-xl font-bold text-cyan-400"> Configuração de API</h2>
                 <p className="text-sm text-gray-400 mt-1">Insira suas chaves de API para habilitar todas as funcionalidades.</p>
             </div>
             <div className="p-6 space-y-4 overflow-y-auto">
