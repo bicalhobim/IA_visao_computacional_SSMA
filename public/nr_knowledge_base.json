@@ -1,0 +1,240 @@
+{
+  "NR-1": [
+    {
+      "item": "1.1.1",
+      "text": "O objetivo desta Norma é estabelecer as disposições gerais, o campo de aplicação, os termos e as definições comuns às Normas Regulamentadoras - NR relativas a segurança e saúde no trabalho e as diretrizes e os requisitos para o gerenciamento de riscos ocupacionais e as medidas de prevenção em Segurança e Saúde no Trabalho - SST."
+    },
+    {
+      "item": "1.2.1",
+      "text": "As NR obrigam, nos termos da lei, empregadores e empregados, urbanos e rurais."
+    },
+    {
+      "item": "1.4.1",
+      "text": "Cabe ao empregador: a) cumprir e fazer cumprir as disposições legais e regulamentares sobre segurança e saúde no trabalho; b) informar aos trabalhadores os riscos ocupacionais existentes nos locais de trabalho e as medidas de prevenção adotadas pela empresa para eliminar ou reduzir tais riscos."
+    },
+    {
+      "item": "1.5.1.1",
+      "text": "O Programa de Gerenciamento de Riscos - PGR deve contemplar ou estar integrado com planos, programas e outros documentos previstos na legislação de segurança e saúde no trabalho."
+    }
+  ],
+  "NR-4": [
+    {
+      "item": "4.1",
+      "text": "As empresas privadas e públicas, os órgãos públicos da administração direta e indireta e dos poderes Legislativo e Judiciário, que possuam empregados regidos pela Consolidação das Leis do Trabalho - CLT, manterão, obrigatoriamente, Serviços Especializados em Engenharia de Segurança e em Medicina do Trabalho, com a finalidade de promover a saúde e proteger a integridade do trabalhador no local de trabalho."
+    },
+    {
+      "item": "4.3.1",
+      "text": "Os Serviços Especializados em Engenharia de Segurança e em Medicina do Trabalho deverão ser integrados, conforme disposto no Quadro II, por Médico do Trabalho, Engenheiro de Segurança do Trabalho, Enfermeiro do Trabalho, Técnico de Segurança do Trabalho e Auxiliar de Enfermagem do Trabalho."
+    }
+  ],
+  "NR-5": [
+    {
+      "item": "5.1",
+      "text": "As empresas ou os estabelecimentos são obrigados a constituir e manter em funcionamento a Comissão Interna de Prevenção de Acidentes e de Assédio (CIPA), nos termos e condições estabelecidos nesta NR."
+    },
+    {
+      "item": "5.3",
+      "text": "A CIPA tem como objetivo a prevenção de acidentes e doenças relacionadas ao trabalho, buscando a compatibilidade permanente entre o trabalho, a preservação da vida e a promoção da saúde do trabalhador."
+    },
+    {
+      "item": "5.10",
+      "text": "O processo eleitoral da CIPA deve ser realizado anualmente."
+    },
+    {
+      "item": "5.14",
+      "text": "O empregador deve proporcionar aos membros da CIPA os meios necessários ao desempenho de suas atribuições, garantindo tempo suficiente para a realização das tarefas de que trata esta NR."
+    }
+  ],
+  "NR-6": [
+    {
+      "item": "6.3",
+      "text": "A empresa é obrigada a fornecer aos empregados, gratuitamente, EPI adequado ao risco, em perfeito estado de conservação e funcionamento, nas seguintes circunstâncias: a) sempre que as medidas de ordem geral não ofereçam completa proteção contra os riscos de acidentes do trabalho ou de doenças profissionais e do trabalho; b) enquanto as medidas de proteção coletiva estiverem sendo implantadas; e, c) para atender a situações de emergência."
+    },
+    {
+      "item": "6.5",
+      "text": "Compete ao Serviço Especializado em Engenharia de Segurança e em Medicina do Trabalho – SESMT, ouvida a Comissão Interna de Prevenção de Acidentes - CIPA e trabalhadores usuários, recomendar ao empregador o EPI adequado ao risco existente em determinada atividade."
+    },
+    {
+      "item": "6.6.1",
+      "text": "Cabe ao empregador quanto ao EPI: a) adquirir o adequado ao risco de cada atividade; b) exigir seu uso; c) fornecer ao trabalhador somente o aprovado pelo órgão nacional competente em matéria de segurança e saúde no trabalho; d) orientar e treinar o trabalhador sobre o uso adequado, guarda e conservação; e) substituir imediatamente, quando danificado ou extraviado; f) responsabilizar-se pela higienização e manutenção periódica; e, g) comunicar ao MTE qualquer irregularidade observada. h) registrar o seu fornecimento ao trabalhador, podendo ser adotados livros, fichas ou sistema eletrônico."
+    }
+  ],
+  "NR-7": [
+    {
+      "item": "7.1.1",
+      "text": "Esta Norma Regulamentadora - NR estabelece as diretrizes e os requisitos para o desenvolvimento do Programa de Controle Médico de Saúde Ocupacional - PCMSO nas organizações."
+    },
+    {
+      "item": "7.4.1",
+      "text": "O PCMSO deve incluir a realização obrigatória dos exames médicos: a) admissional; b) periódico; c) de retorno ao trabalho; d) de mudança de risco ocupacional; e) demissional."
+    },
+    {
+      "item": "7.6",
+      "text": "O PCMSO deve ser elaborado e implementado sob a responsabilidade de médico do trabalho, integrante do SESMT da organização ou médico externo."
+    }
+  ],
+  "NR-8": [
+    {
+      "item": "8.1",
+      "text": "Esta Norma Regulamentadora - NR estabelece requisitos técnicos mínimos que devem ser observados nas edificações para garantir segurança e conforto aos que nelas trabalhem."
+    },
+    {
+      "item": "8.3.1",
+      "text": "Os pisos dos locais de trabalho não devem apresentar saliências nem depressões que prejudiquem a circulação de pessoas ou a movimentação de materiais."
+    },
+    {
+      "item": "8.4.1",
+      "text": "As aberturas no piso e nas paredes devem ser protegidas de forma a impedir a queda de pessoas ou objetos."
+    }
+  ],
+  "NR-9": [
+    {
+      "item": "9.1.1",
+      "text": "Esta Norma Regulamentadora - NR estabelece os requisitos para a avaliação e controle das exposições ocupacionais a agentes físicos, químicos e biológicos nos ambientes de trabalho."
+    },
+    {
+      "item": "9.2.1",
+      "text": "A organização deve realizar a avaliação das exposições ocupacionais a agentes físicos, químicos e biológicos para identificar e quantificar os riscos, quando aplicável."
+    },
+    {
+      "item": "9.3.1",
+      "text": "Devem ser adotadas medidas de prevenção para eliminar, reduzir ou controlar os riscos decorrentes da exposição a agentes ambientais."
+    }
+  ],
+  "NR-10": [
+    {
+      "item": "10.2.1",
+      "text": "Em todas as intervenções em instalações elétricas devem ser adotadas medidas preventivas de controle do risco elétrico e de outros riscos adicionais, mediante técnicas de análise de risco, de forma a garantir a segurança e a saúde no trabalho."
+    },
+    {
+      "item": "10.2.3",
+      "text": "As empresas estão obrigadas a manter esquemas unifilares atualizados das instalações elétricas dos seus estabelecimentos com as especificações do sistema de aterramento e demais equipamentos e dispositivos de proteção."
+    },
+    {
+      "item": "10.2.4",
+      "text": "Os estabelecimentos com carga instalada superior a 75 kW devem constituir e manter o Prontuário de Instalações Elétricas, contendo, além do disposto no subitem 10.2.3, no mínimo: a) conjunto de procedimentos e instruções técnicas e administrativas de segurança e saúde, implantadas e relacionadas a esta NR e descrição das medidas de controle existentes; b) documentação das inspeções e medições do sistema de proteção contra descargas atmosféricas e aterramentos elétricos."
+    }
+  ],
+  "NR-12": [
+    {
+      "item": "12.1",
+      "text": "Esta Norma Regulamentadora e seus anexos definem referências técnicas, princípios fundamentais e medidas de proteção para garantir a saúde e a integridade física dos trabalhadores e estabelece requisitos mínimos para a prevenção de acidentes e doenças do trabalho nas fases de projeto e de utilização de máquinas e equipamentos de todos os tipos."
+    },
+    {
+      "item": "12.38",
+      "text": "As máquinas e equipamentos devem ter dispositivos de acionamento e parada localizados de modo que seja acionado ou desligado pelo operador na sua posição de trabalho."
+    }
+  ],
+  "NR-15": [
+    {
+      "item": "15.1.1",
+      "text": "São consideradas atividades ou operações insalubres as que se desenvolvem: a) acima dos limites de tolerância previstos nos Anexos nº 1, 2, 3, 5, 11 e 12; b) nas atividades mencionadas nos Anexos nº 6, 13 e 14; c) comprovadas através de laudo de inspeção do local de trabalho, constantes dos Anexos nº 7, 8, 9 e 10."
+    },
+    {
+      "item": "15.1.5",
+      "text": "No caso de incidência de mais de um fator de insalubridade, será apenas considerado o de grau mais elevado, para efeito de acréscimo salarial, sendo vedada a percepção cumulativa."
+    }
+  ],
+  "NR-16": [
+    {
+      "item": "16.1",
+      "text": "São consideradas atividades e operações perigosas, na forma da regulamentação aprovada pelo Ministério do Trabalho, aquelas que, por sua natureza ou métodos de trabalho, impliquem risco acentuado em virtude de exposição permanente do trabalhador a: I - inflamáveis, explosivos ou energia elétrica; II - roubos ou outras espécies de violência física nas atividades profissionais de segurança pessoal ou patrimonial."
+    }
+  ],
+  "NR-17": [
+    {
+      "item": "17.1",
+      "text": "Esta Norma Regulamentadora visa a estabelecer parâmetros que permitam a adaptação das condições de trabalho às características psicofisiológicas dos trabalhadores, de modo a proporcionar um máximo de conforto, segurança e desempenho eficiente."
+    },
+    {
+      "item": "17.6.1",
+      "text": "Para efeito desta Norma Regulamentadora, transporte manual de cargas designa todo transporte no qual o peso da carga é suportado inteiramente por um só trabalhador, compreendendo o levantamento e a deposição da carga."
+    }
+  ],
+  "NR-18": [
+    {
+      "item": "18.1.1",
+      "text": "Esta Norma Regulamentadora - NR tem o objetivo de estabelecer diretrizes de ordem administrativa, de planejamento e de organização, que visam à implementação de medidas de controle e sistemas preventivos de segurança nos processos, nas condições e no meio ambiente de trabalho na indústria da construção."
+    },
+    {
+      "item": "18.2.1",
+      "text": "Antes do início das atividades, é obrigatória a elaboração e implementação do Programa de Condições e Meio Ambiente de Trabalho na Indústria da Construção (PCMAT), nas obras com 20 (vinte) trabalhadores ou mais."
+    },
+    {
+      "item": "18.3.1",
+      "text": "O canteiro de obras deve ser dotado de áreas de vivência, conforme as exigências específicas desta NR."
+    },
+    {
+      "item": "18.4.1",
+      "text": "As instalações elétricas temporárias do canteiro de obras devem ser projetadas e executadas de forma a atender ao disposto na NR-10."
+    },
+    {
+      "item": "18.7.1",
+      "text": "É obrigatória a instalação de proteção coletiva onde houver risco de queda de trabalhadores ou de projeção de materiais."
+    },
+    {
+      "item": "18.8.1",
+      "text": "A movimentação e o transporte de materiais e pessoas nas obras devem ser feitos de forma segura, com equipamentos adequados e operados por trabalhadores qualificados."
+    },
+    {
+      "item": "18.12.1",
+      "text": "Devem ser fornecidas gratuitamente ao trabalhador as vestimentas de trabalho e EPI adequados e em perfeito estado de conservação e funcionamento, observadas as disposições da NR-6."
+    },
+    {
+      "item": "18.13.1",
+      "text": "Todos os trabalhadores devem receber treinamentos admissional e periódico sobre as condições e meio ambiente de trabalho, os riscos inerentes à sua função e o uso adequado dos EPIs."
+    }
+  ],
+  "NR-21": [
+    {
+      "item": "21.1",
+      "text": "Os trabalhos a céu aberto devem ser organizados de forma a permitir aos trabalhadores condições de trabalho que preservem a saúde e a segurança."
+    },
+    {
+      "item": "21.2",
+      "text": "Nos trabalhos realizados a céu aberto, é obrigatório o uso de proteção adequada contra insolação excessiva, o calor, o frio e a umidade."
+    }
+  ],
+  "NR-24": [
+    {
+      "item": "24.1.1",
+      "text": "Os locais de trabalho devem ter instalações sanitárias, vestiários, refeitórios, cozinhas, alojamentos e água potável, de acordo com os preceitos de higiene e conforto estabelecidos nesta Norma Regulamentadora."
+    },
+    {
+      "item": "24.2.1",
+      "text": "Os locais de trabalho devem ser dotados de instalações sanitárias, separadas por sexo, na proporção de uma unidade para cada grupo de vinte trabalhadores ou fração, constituídas de: a) vaso sanitário; b) mictório; c) lavatório; d) chuveiro."
+    }
+  ],
+  "NR-26": [
+    {
+      "item": "26.1.1",
+      "text": "Esta Norma Regulamentadora tem por objetivo fixar as cores que devem ser usadas nos locais de trabalho para prevenção de acidentes, identificando os equipamentos de segurança, delimitando áreas, identificando as canalizações empregadas nas indústrias para a condução de líquidos e gases e advertindo contra riscos."
+    },
+    {
+      "item": "26.1.4.1",
+      "text": "A cor vermelha deverá ser usada para distinguir e indicar equipamentos e aparelhos de proteção e combate a incêndio. É empregada para identificar: a) caixas de alarme de incêndio; b) hidrantes; c) equipamentos de combate a incêndio e sua localização; d) bomba de incêndio."
+    }
+  ],
+  "NR-35": [
+    {
+      "item": "35.1.1",
+      "text": "Esta Norma estabelece os requisitos mínimos e as medidas de proteção para o trabalho em altura, envolvendo o planejamento, a organização e a execução, de forma a garantir a segurança e a saúde dos trabalhadores envolvidos direta ou indiretamente com esta atividade."
+    },
+    {
+      "item": "35.1.2",
+      "text": "Considera-se trabalho em altura toda atividade executada acima de 2,00 m (dois metros) do nível inferior, onde haja risco de queda."
+    },
+    {
+      "item": "35.2.1",
+      "text": "O empregador deve garantir a implementação das medidas de proteção estabelecidas nesta NR, assegurando a realização da Análise de Risco (AR) e, quando aplicável, a emissão da Permissão de Trabalho (PT)."
+    },
+    {
+      "item": "35.3.1",
+      "text": "Todo trabalho em altura deve ser planejado, organizado e executado por trabalhador capacitado e autorizado."
+    },
+    {
+      "item": "35.5.1",
+      "text": "É obrigatória a utilização de sistema de proteção contra quedas sempre que não for possível evitar o trabalho em altura."
+    }
+  ]
+}

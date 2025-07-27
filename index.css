@@ -1,0 +1,252 @@
+/* SPDX-License-Identifier: Apache-2.0 */
+/* Copyright 2024 Lucas Bicalho, PMP */
+/* Licenciado sob a Licença Apache, Versão 2.0 (a "Licença"); */
+/* Copyright 2024 Lucas Bicalho, PMP */
+
+/* Licenciado sob a Licença Apache, Versão 2.0 (a "Licença"); */
+/* você não pode usar este arquivo exceto em conformidade com a Licença. */
+/* Você pode obter uma cópia da Licença em */
+
+/*     https://www.apache.org/licenses/LICENSE-2.0 */
+
+/* A menos que exigido pela lei aplicável ou acordado por escrito, o software */
+/* distribuído sob a Licença é distribuído "COMO ESTÁ", */
+/* SEM GARANTIAS OU CONDIÇÕES DE QUALQUER TIPO, expressas ou implícitas. */
+/* Consulte a Licença para o idioma específico que governa as permissões e */
+/* limitações sob a Licença. */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+  overflow: hidden; /* Prevenir scroll no nível da página */
+}
+
+/* Estilos de scrollbar para uma aparência consistente */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #2d3748; /* Cor do fundo dos painéis */
+}
+::-webkit-scrollbar-thumb {
+  background: #4a5568; /* Cinza mais escuro */
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #718096; /* Cinza mais claro no hover */
+}
+
+body {
+  font-size: 14px;
+  background-color: var(--bg-color);
+  color: var(--text-color-primary);
+  font-family: 'Inter', sans-serif;
+}
+
+/* Remove estilos antigos e desnecessários */
+.hide-box .bbox {
+  opacity: 0;
+  z-index: -1;
+}
+.hide-box .bbox.reveal {
+  opacity: 1;
+  z-index: 1;
+}
+
+:root {
+  --bg-color: #f0f2f5;
+  --panel-bg-color: #ffffff;
+  --accent-color: #042e2d;
+  --accent-color-hover: #064e4c;
+  --accent-text-color: #ffffff;
+  --border-color: #d1d5db;
+  --text-color-primary: #1a202c;
+  --text-color-secondary: #4a5568;
+  --input-bg-color: #f9fafb;
+  --danger-color: #e53e3e;
+}
+
+.dark {
+  --bg-color: #1a202c; /* Cinza-azulado muito escuro */
+  --panel-bg-color: #2d3748; /* Tom mais claro */
+  --accent-color: #2dd4bf; /* Ciano vibrante */
+  --accent-color-hover: #5eead4; /* Ciano mais claro */
+  --accent-text-color: #1a202c; /* Texto escuro para botões com cor de destaque */
+  --border-color: #4a5568; /* Cinza para bordas */
+  --text-color-primary: #e2e8f0; /* Branco suave */
+  --text-color-secondary: #94a3b8; /* Cinza claro */
+  --input-bg-color: #1e293b; /* Fundo de input escuro */
+  --danger-color: #f87171; /* Vermelho claro para erros */
+  color-scheme: dark;
+}
+
+/* Estilos para os novos componentes da UI */
+
+/* Botões */
+.button-new {
+  font-family: inherit;
+  font-size: 14px;
+  font-weight: 600;
+  padding: 10px 16px;
+  border-radius: 8px;
+  border: 1px solid transparent;
+  cursor: pointer;
+  transition: background-color 0.2s, border-color 0.2s, color 0.2s;
+  min-height: 44px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.button-new:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.button-new.primary {
+  background-color: var(--accent-color);
+  color: var(--accent-text-color);
+}
+.button-new.primary:not(:disabled):hover {
+  background-color: var(--accent-color-hover);
+}
+
+.button-new.secondary {
+  background-color: var(--panel-bg-color);
+  color: var(--text-color-primary);
+  border-color: var(--border-color);
+}
+.button-new.secondary:not(:disabled):hover {
+  border-color: var(--accent-color);
+  color: var(--accent-color);
+}
+.button-new.secondary.active {
+    border-color: var(--accent-color);
+    background-color: rgba(45, 212, 191, 0.1);
+    color: var(--accent-color);
+}
+
+.button-new.tertiary {
+  background-color: transparent;
+  color: var(--text-color-secondary);
+  border: none;
+  padding: 8px 12px;
+  min-height: auto;
+}
+.button-new.tertiary:not(:disabled):hover {
+  background-color: var(--panel-bg-color);
+  color: var(--text-color-primary);
+}
+
+
+/* Textarea e Inputs */
+.textarea-new {
+  width: 100%;
+  background-color: var(--input-bg-color);
+  color: var(--text-color-primary);
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  padding: 12px;
+  resize: vertical;
+  font-size: 14px;
+  transition: border-color 0.2s;
+}
+.textarea-new:focus {
+  outline: none;
+  border-color: var(--accent-color);
+  box-shadow: 0 0 0 2px rgba(45, 212, 191, 0.3);
+}
+
+.input-new {
+  width: 100%;
+  background-color: var(--input-bg-color);
+  color: var(--text-color-primary);
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  padding: 12px;
+  font-size: 14px;
+  transition: border-color 0.2s;
+  min-height: 44px;
+}
+.input-new:focus {
+  outline: none;
+  border-color: var(--accent-color);
+  box-shadow: 0 0 0 2px rgba(45, 212, 191, 0.3);
+}
+
+
+/* Range Slider */
+.range-new {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 100%;
+  height: 6px;
+  background: var(--input-bg-color);
+  border-radius: 3px;
+  outline: none;
+  border: 1px solid var(--border-color);
+}
+.range-new::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 16px;
+  height: 16px;
+  background: var(--accent-color);
+  cursor: pointer;
+  border-radius: 50%;
+  border: 2px solid var(--bg-color);
+}
+.range-new::-moz-range-thumb {
+  width: 16px;
+  height: 16px;
+  background: var(--accent-color);
+  cursor: pointer;
+  border-radius: 50%;
+  border: 2px solid var(--bg-color);
+}
+
+/* Checkbox */
+.checkbox-new {
+  appearance: none;
+  background-color: var(--input-bg-color);
+  width: 16px;
+  height: 16px;
+  border: 1px solid var(--border-color);
+  border-radius: 4px;
+  cursor: pointer;
+  position: relative;
+  display: inline-block;
+  vertical-align: middle;
+}
+.checkbox-new:checked {
+  background-color: var(--accent-color);
+  border-color: var(--accent-color);
+}
+.checkbox-new:checked::after {
+  content: '✔';
+  position: absolute;
+  color: var(--accent-text-color);
+  font-size: 12px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* Botões antigos, remover se não forem mais usados em nenhum lugar */
+button, .button {
+  appearance: none;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  color: var(--text-color-primary);
+  border: 1px solid var(--border-color);
+  padding: 14px 20px;
+  border-radius: 8px;
+  min-height: 56px;
+}

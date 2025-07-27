@@ -1,0 +1,6 @@
+{
+  "name": "AI.MÉTODO EXPERT - Local",
+  "description": "Uma plataforma de IA para análise de segurança do trabalho, desenvolvida por Lucas Bicalho, PMP. Utiliza o Gemini para detectar riscos e não conformidades em imagens, com base nas NRs brasileiras.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
